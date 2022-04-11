@@ -1,9 +1,10 @@
 <h3 align = "center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
-
-<a href = "https://www.linkedin.com/in/senghounglim">
-   <img align = "center" alt = "SHL's LinkedIn" width = "22px"
-   src =  "https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<p align = "center"
+   <a href = "https://www.linkedin.com/in/senghounglim">
+      <img align = "center" alt = "SHL's LinkedIn" width = "22px"
+      src =  "https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+   </a>
+</p>
 
 **Welcome to my Github!**
 
