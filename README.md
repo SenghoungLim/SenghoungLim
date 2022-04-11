@@ -11,10 +11,10 @@ Hello, my name is Senghoung Lim. I am a junior Computer Science student at [UC I
 
 **:handshake:Connect with me:**
 
-<a href: "https://www.linkedin.com/in/senghounglim">
+<a href = "https://www.linkedin.com/in/senghounglim" >
   <img align = "left" alt = "ShL's LinkedIn" width = "22px" 
   src = "https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
+</a>
 
 
 
