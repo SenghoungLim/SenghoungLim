@@ -6,8 +6,18 @@
 Hello, my name is Senghoung Lim. I am a junior Computer Science student at [UC Irvine](https://uci.edu/). My career of interest is to become a Full Stack Developer. I love creating websites and applications with a touch of elegant and user-friendly interfaces.
 
 **Languages & Tools**
-- C++, Python, HTML, CSS, JavaScript. 
+- C++, Python, Kotlin, HTML, CSS, JavaScript. 
 - Figma, Canva, Git. 
+
+**:handshake:Connect with me:**
+
+<a href: "https://www.linkedin.com/in/senghounglim">
+  <img align = "left" alt = "ShL's LinkedIn" width = "22px" 
+  src = "https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+
+
+
 <!--
 **SenghoungLim/SenghoungLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
