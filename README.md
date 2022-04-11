@@ -5,7 +5,7 @@
    src =  "https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<h4 aligh = "center"> Welcome to my Github! </h4>
+<h4 align = "center"> Welcome to my Github! </h4>
 
 
 
