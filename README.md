@@ -9,6 +9,9 @@ Hello, my name is Senghoung Lim. I am a junior Computer Science student at [UC I
 - C++, Python, Kotlin, HTML, CSS, JavaScript. 
 - Figma, Canva, Git. 
 
+**Hobbies**
+- Photography, Hiking, and Movies
+
 **:handshake:Connect with me:**
 
 <a href = "https://www.linkedin.com/in/senghounglim" >
