@@ -7,8 +7,8 @@
 Hello, my name is Senghoung Lim. I am a junior Computer Science student at [UC Irvine](https://uci.edu/). My career of interest is to become a Full Stack Developer. I love creating websites and applications with a touch of elegant and user-friendly interfaces.
 
 **Languages & Tools**
-- C++, Python, Kotlin, HTML, CSS, JavaScript. 
-- Figma, Canva, Git. 
+- C++, Python, Kotlin, HTML, CSS, JavaScript 
+- Figma, Canva, Git 
 
 **Hobbies**
 - Photography, Hiking, and Movies
